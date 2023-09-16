@@ -16,3 +16,9 @@
 13. Python Program to find the largest among three numbers
 14. Python Program to check prime number
 15. Python Program to print all prime number in an interval
+
+### Day 3
+16. Python Program to find factorial of a number 
+17. Python Program to display the multiplication table
+18. Python Program to print the fibonacci series
+19. Python Program to check Armstrong Number
