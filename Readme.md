@@ -22,3 +22,8 @@
 17. Python Program to display the multiplication table
 18. Python Program to print the fibonacci series
 19. Python Program to check Armstrong Number
+
+### Day 4
+20. Python Program to find Armstrong number in an interval
+21. Python Program to find the sum of Natural numbers
+22. Python Program to display powers of 2 using anonymous function
