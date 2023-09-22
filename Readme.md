@@ -33,3 +33,9 @@
 24. Python Program to convert decimal to binary, octal and hexadecimal
 25. Python Program to find ASCII value of character
 26. Python Program to find HCF or GCD
+
+### Day 6
+27. Python Program to find the factors of a number
+28. Python Program to make a simple calculator
+29. Python Program to shuffle deck of cards
+30. Python Program to display calendar
