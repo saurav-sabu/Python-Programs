@@ -39,3 +39,8 @@
 28. Python Program to make a simple calculator
 29. Python Program to shuffle deck of cards
 30. Python Program to display calendar
+
+### Day 7
+31. Python Program to display Fibonacci Sequences using recursion
+32. Python Program to find the sum of natural numbers using recursion
+33. Python Program to find factorial of a number using recursion
