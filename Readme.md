@@ -44,3 +44,6 @@
 31. Python Program to display Fibonacci Sequences using recursion
 32. Python Program to find the sum of natural numbers using recursion
 33. Python Program to find factorial of a number using recursion
+
+### Day 8
+34. Python Program to convert Decimal to Binary using recursion
